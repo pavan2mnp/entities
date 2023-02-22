@@ -1,0 +1,19 @@
+{
+  "name": "entities",
+  "version": "1.0.0",
+  "description": "entities test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pavan2mnp@github.com/pavan2mnp/entities.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavan2mnp/entities/issues"
+  },
+  "homepage": "https://github.com/pavan2mnp/entities#readme"
+}
