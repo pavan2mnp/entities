@@ -1,1 +1,3 @@
-console.log("Version V2");
+export const printMessage = () => {
+    return "Returning V2";
+  }
